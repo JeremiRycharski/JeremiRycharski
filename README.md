@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeremi Rycharski.
-- 👀 I’m interested in FC Barcelona
+- 👀 I’m interested in FC Barcelona.
 - 🌱 I’m currently learning Angular and Python.
 - 💞️ I’m looking to collaborate on front-end projects.
 - 📫 How to reach me: jeremirycharski@gmail.com
